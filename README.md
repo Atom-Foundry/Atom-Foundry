@@ -4,9 +4,13 @@ Atom Foundry is an AI Commerce Intelligence platform helping e-commerce brands u
 
 ## Core Frameworks
 
-- AI Commerce Intelligence Framework
-- AI Commerce Glossary
-- AI Commerce Entities
+## Core Frameworks
+
+- [AI Commerce Intelligence Framework](https://github.com/Atom-Foundry/AI-Commerce-Intelligence-Framework)
+
+- [AI Commerce Glossary](https://github.com/Atom-Foundry/AI-Commerce-Glossary)
+
+- [AI Commerce Entities](https://github.com/Atom-Foundry/AI-Commerce-Entities)
 
 ## Core Concepts
 
